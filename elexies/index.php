@@ -60,7 +60,7 @@
         </div>
 
         <h1>Welcome to Elexies Hall</h1>
-        <h2>We provide <span class="rotating">all types oh hall based on customer needed</span></h2>
+        <h2>We provide <span class="rotating">all types of hall based on customer needed</span></h2>
         <!--<div class="actions">
           <a href="#about" class="btn-get-started">Learn More</a>
           <a href="#portfolio" class="btn-services">Our Hall</a>
